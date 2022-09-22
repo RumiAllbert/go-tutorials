@@ -2,6 +2,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
 
 This repository contains a collection of tutorials and examples for the Go programming language.
+Most code examples are from: https://gobyexample.com/
 
 ## Usage
 Just clone the repository and start reading the tutorials.
